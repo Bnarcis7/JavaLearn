@@ -1,0 +1,11 @@
+-methods can be void but can also return values;
+-the value returned must be the same type as the declared type;
+-methods can have multiple parameters
+-things an object knows--> instance variables
+-things an objecty does--> methods
+-Mark instance variables private.
+-Mark getters and setters public
+-instance variables always get a default value if they are unassigned(integer-0, float=0.0, booleans-false, references-null)
+-local variables(in methods) do not get default value and must be initialised before used
+-== to compare primitives or to see if two references refer to the same object
+-equals() to see if two different objects are equal

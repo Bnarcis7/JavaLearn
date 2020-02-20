@@ -1,0 +1,18 @@
+-what is the class supposed to do
+-write all the instance variables and methods           PREP CODE-pseuodocode to figure ou the logic of the code
+-write the code of the methods-------------------------/
+                                                       \
+                                                        TEST CODE-a class/method that is testing the code to validate it or not
+-implement the class
+-test the methods
+-debug and reimplement if needed
+-//-Extreme Programming -->write the test code before there is anything to test
+
+
+-integer.parseInt("3")--> parseInt---> a method that knows to "parse" a string into an int
+                                                    int cell--a variable that will hold different elements from the array
+-the for loop---> for(int cell : locationCells)---/_: means "in"
+                                                  \
+                                                    locationCells--the array to iterate over in the loop
+-post-increment operator a++;
+-generate random numbers-->int random=(int) (Math.random()*5);
